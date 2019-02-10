@@ -18,7 +18,7 @@ public class DemoApplicationTests {
 
 	@Test
 	public void testAdditionController() {
-		assertEquals(new Integer(19), additionController.addTwoNumbers(10, 10));
+		assertEquals(new Integer(20), additionController.addTwoNumbers(10, 10));
 	}
 }
 
